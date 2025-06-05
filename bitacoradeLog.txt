@@ -1,0 +1,53 @@
+$ git log
+commit 963977cb3bc2ab4717f893e957a4d1dad6b0ddf3 (HEAD -> main, origin/RamaVista9959-23-10733, RamaVista9959-23-10733)
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:56:58 2025 -0600
+
+    subiendo vista
+
+commit 878d8a9d3ea86e79bd541276dc12ea49e0e3fc55 (origin/RamaReportes9959-23-10733, RamaReportes9959-23-10733)
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:54:55 2025 -0600
+
+    subiendo reportes
+
+commit e07407e6b8dac7a26016aa3ba8f35f10a6160001 (origin/RamaModelo9959-23-10733, RamaModelo9959-23-10733)
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:51:36 2025 -0600
+
+    subiendo ModeloDao
+
+commit fed1a7897d2beb90dac52ed27be49db768ea4d15 (origin/main, origin/Ramaseguridad9959-23-10733, Ramaseguridad9959-23-10733)
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:45:01 2025 -0600
+
+    subiendo Controlador seguridad
+
+commit dffe197d013ca7f2d28ab5a815db85d7f596fe56
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:34:17 2025 -0600
+
+    primercommit
+(END)
+Date:   Thu Jun 5 12:54:55 2025 -0600
+
+    subiendo reportes
+
+commit e07407e6b8dac7a26016aa3ba8f35f10a6160001 (origin/RamaModelo9959-23-10733, RamaModelo9959-23-10733)
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:51:36 2025 -0600
+
+    subiendo ModeloDao
+
+commit fed1a7897d2beb90dac52ed27be49db768ea4d15 (origin/main, origin/Ramaseguridad9959-23-10733, Ramaseguridad9959-23-10733)
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:45:01 2025 -0600
+
+    subiendo Controlador seguridad
+
+commit dffe197d013ca7f2d28ab5a815db85d7f596fe56
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Thu Jun 5 12:34:17 2025 -0600
+
+    primercommit
+(END)
